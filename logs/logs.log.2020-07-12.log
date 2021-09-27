@@ -1,0 +1,429 @@
+2020-07-12 00:00:14,165-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:00:14,168-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(95) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:00:15,652-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:00:15,808-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(14) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:00:21,663-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 00:02:52,471-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:02:52,474-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(95) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:02:53,949-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:02:54,087-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(14) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:02:59,125-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 00:07:20,704-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:07:20,706-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(95) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:07:22,161-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:07:22,297-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:07:27,454-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 00:08:09,435-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:08:09,437-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(95) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:08:10,871-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:08:11,034-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:08:16,932-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 00:09:54,577-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:09:54,584-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(95) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:09:56,020-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:09:56,159-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:10:01,094-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 00:14:38,142-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:14:38,145-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(95) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:14:39,666-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:14:39,842-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:14:45,855-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 00:19:32,879-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:19:32,881-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:19:34,519-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:19:34,661-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:19:39,557-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 00:19:56,564-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:19:56,566-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:19:58,120-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:19:58,275-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:20:02,907-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 00:20:52,576-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 00:20:52,579-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 00:20:54,121-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(43) - 启动Mac环境下Chrome浏览器......
+2020-07-12 00:20:54,259-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 00:20:59,023-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 09:18:02,094-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-07-12 09:18:02,102-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 09:18:04,432-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 09:18:04,572-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 09:18:09,038-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-07-12 10:39:31,542-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-07-12 10:39:31,544-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 10:39:33,115-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 10:39:33,263-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 10:39:38,903-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-07-12 10:39:47,264-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 10:39:47,266-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 10:39:48,666-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 10:39:48,813-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 10:39:55,201-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 10:52:03,284-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 10:52:03,287-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 10:52:04,713-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 10:52:04,872-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 10:52:09,267-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 11:42:14,064-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 11:42:14,067-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 11:42:16,290-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 11:42:16,437-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 11:42:21,313-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 11:47:43,166-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 11:47:43,169-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(100) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 11:47:44,673-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 11:47:44,816-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 11:47:50,664-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 11:52:38,495-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 11:52:38,497-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 11:52:40,000-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 11:52:40,134-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 11:52:44,012-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 11:54:27,665-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 11:54:27,667-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 11:54:29,091-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 11:54:29,228-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 11:54:32,719-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 11:58:37,304-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 11:58:37,307-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 11:58:38,843-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 11:58:38,981-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 11:58:44,019-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 11:59:42,315-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 11:59:42,317-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 11:59:43,748-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 11:59:43,907-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 11:59:49,183-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 12:00:54,126-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 12:00:54,130-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 12:00:55,570-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 12:00:55,727-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 12:01:00,430-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 12:13:56,587-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 12:13:56,589-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 12:13:57,976-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 12:13:58,121-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 12:14:02,079-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 12:15:02,887-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 12:15:02,889-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 12:15:04,352-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 12:15:04,502-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 12:15:08,792-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 12:16:47,160-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 12:16:47,162-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 12:16:48,892-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 12:16:49,028-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 12:16:52,980-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 12:18:24,393-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 12:18:24,395-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 12:18:25,955-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 12:18:26,101-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 12:18:30,921-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 12:20:50,519-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 12:20:50,521-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 12:20:51,966-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 12:20:52,104-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 12:20:56,299-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 12:23:58,706-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 12:23:58,708-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 12:24:00,212-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 12:24:00,357-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 12:24:04,981-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 12:32:42,024-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 12:32:42,026-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-12 12:32:43,463-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 12:32:43,605-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-12 12:32:47,691-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 15:03:07,573-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 15:03:07,575-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.Case_exampleon driverType4
+2020-07-12 15:03:09,695-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 15:03:09,840-[SeleniumAutoFile] INFO [main] com.cases.Case_example.example_0001(15) - example_0001 跑起来吧！！！come 北鼻,来次够!
+2020-07-12 15:03:16,643-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 16:57:50,576-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 16:57:50,579-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 16:57:52,320-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 16:57:52,459-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 16:57:52,623-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 16:57:53,958-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 16:57:56,503-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 16:57:56,657-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 16:57:56,677-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 16:57:57,706-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 16:57:59,334-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 16:58:36,809-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 16:58:36,811-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 16:58:38,290-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 16:58:38,433-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 16:58:38,561-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 16:58:39,591-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 16:58:42,147-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 16:58:42,297-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 16:58:42,306-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 16:58:43,275-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 16:58:44,893-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 16:59:30,695-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 16:59:30,697-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 16:59:32,176-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 16:59:32,323-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 16:59:32,445-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 16:59:33,760-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 16:59:36,347-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 16:59:36,494-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 16:59:36,502-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 16:59:37,677-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 16:59:39,301-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:00:32,272-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:00:32,275-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:00:33,718-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:00:33,861-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 17:00:33,980-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 17:00:35,326-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 17:00:37,843-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:00:37,993-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 17:00:37,999-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 17:00:39,306-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 17:00:40,930-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:01:39,585-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:01:39,588-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:01:41,060-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:01:41,205-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(51) - kfgl_0002_LoginFail is running !
+2020-07-12 17:01:43,556-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(65) - kfgl_0002_LoginFail is end !
+2020-07-12 17:01:46,287-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:01:46,428-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(51) - kfgl_0002_LoginFail is running !
+2020-07-12 17:01:48,922-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(65) - kfgl_0002_LoginFail is end !
+2020-07-12 17:01:50,562-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:02:15,936-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:02:15,938-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:02:17,562-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:02:17,708-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 17:02:17,838-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 17:02:19,293-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 17:02:21,834-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:02:21,986-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 17:02:21,995-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 17:02:23,393-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 17:02:25,880-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:02:26,028-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(51) - kfgl_0002_LoginFail is running !
+2020-07-12 17:02:28,474-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(65) - kfgl_0002_LoginFail is end !
+2020-07-12 17:02:31,096-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:02:31,248-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(51) - kfgl_0002_LoginFail is running !
+2020-07-12 17:02:33,713-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(65) - kfgl_0002_LoginFail is end !
+2020-07-12 17:02:35,335-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:10:30,111-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:10:30,113-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.example.TestDBon driverType4
+2020-07-12 17:10:31,560-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:10:31,710-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(24) - test_0001_LoginPass 在运行呢 !
+2020-07-12 17:10:32,718-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(45) - test_0001_LoginPass is end !
+2020-07-12 17:10:35,268-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:10:35,458-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(24) - test_0001_LoginPass 在运行呢 !
+2020-07-12 17:10:36,462-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(45) - test_0001_LoginPass is end !
+2020-07-12 17:10:38,196-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:10:53,322-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:10:53,324-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:10:54,793-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:10:54,934-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 17:10:55,032-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 17:10:56,857-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 17:10:59,466-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:10:59,660-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(22) - kfgl_0001_LoginSucc is running !
+2020-07-12 17:10:59,672-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(24) - 数据库的结果是: abc123
+2020-07-12 17:11:01,009-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0001_LoginSucc(41) - kfgl_0001_LoginSucc is end !
+2020-07-12 17:11:03,547-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:11:03,729-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(51) - kfgl_0002_LoginFail is running !
+2020-07-12 17:11:06,104-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(65) - kfgl_0002_LoginFail is end !
+2020-07-12 17:11:08,817-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 17:11:08,998-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(51) - kfgl_0002_LoginFail is running !
+2020-07-12 17:11:11,368-[SeleniumAutoFile] INFO [main] com.cases.KfglTest.kfgl_0002_LoginFail(65) - kfgl_0002_LoginFail is end !
+2020-07-12 17:11:12,995-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:16:38,849-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:16:38,851-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:16:38,856-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(32) - locate file begin!
+2020-07-12 17:16:38,889-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:17:01,622-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:17:01,624-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:17:01,630-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(32) - locate file begin!
+2020-07-12 17:17:01,654-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:18:26,848-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:18:26,850-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:18:26,858-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(32) - locate file begin!
+2020-07-12 17:18:26,880-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:19:00,420-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:19:00,423-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:19:00,430-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(32) - locate file begin!
+2020-07-12 17:19:00,457-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:19:59,765-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:19:59,769-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:19:59,776-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(32) - locate file begin!
+2020-07-12 17:19:59,793-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:21:15,721-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:21:15,724-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:21:15,731-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(32) - locate file begin!
+2020-07-12 17:21:15,750-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:25:19,762-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:25:19,765-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:25:19,769-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(33) - locate file begin!
+2020-07-12 17:25:19,785-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:26:42,705-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:26:42,707-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:26:42,712-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:26:42,732-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:28:24,192-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:28:24,197-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTestExcelon driverType4
+2020-07-12 17:28:24,205-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:28:24,223-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:28:59,867-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:28:59,870-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:28:59,876-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:28:59,897-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:30:56,755-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:30:56,759-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:30:56,766-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:30:56,787-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:32:11,210-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:32:11,212-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:32:11,217-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:32:11,231-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:35:21,873-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:35:21,876-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:35:21,881-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:35:21,942-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 17:35:21,943-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/com/cases/KfglTest.xls
+2020-07-12 17:35:21,980-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:36:45,788-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:36:45,791-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:36:45,797-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:36:45,862-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 17:36:45,862-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/.xls
+2020-07-12 17:36:45,987-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:37:08,866-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:37:08,869-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:37:08,875-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:37:08,937-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 17:37:08,937-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/data.xls
+2020-07-12 17:37:08,974-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:37:32,650-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:37:32,652-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:37:32,657-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:37:32,716-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 17:37:32,716-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/data.xls
+2020-07-12 17:37:32,769-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:39:14,649-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:39:14,652-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:39:14,657-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:39:14,688-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:41:53,294-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:41:53,296-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:41:53,302-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:41:53,355-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 17:41:53,355-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/com/cases/KfglTest.xls
+2020-07-12 17:41:53,390-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:42:08,153-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:42:08,155-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:42:08,161-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:42:08,213-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 17:42:08,214-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/com/cases/KfglTest.xls
+2020-07-12 17:42:08,258-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:43:10,036-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:43:10,041-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:43:10,050-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:43:10,116-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 17:43:10,117-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/com/cases/KfglTest.xls
+2020-07-12 17:43:10,166-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:44:21,240-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:44:21,242-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:44:21,248-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 17:44:21,299-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 17:44:21,299-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/com/cases/KfglTest.xls
+2020-07-12 17:44:21,336-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:48:34,650-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:48:34,652-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:48:34,666-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:53:13,459-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:53:13,461-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:53:13,514-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:54:23,286-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:54:23,289-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:54:23,307-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:55:37,528-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:55:37,530-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:55:37,544-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 17:55:47,079-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 17:55:47,081-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 17:55:47,102-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:00:03,323-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:00:03,326-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:00:03,333-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(34) - locate file begin!
+2020-07-12 18:00:03,391-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(40) - locate file ok!
+2020-07-12 18:00:03,391-[SeleniumAutoFile] INFO [main] com.config.ExcelDataProvider.<init>(41) - /Users/zhenning/Documents/idea/TestExtend/target/classes/data/com/cases/KfglTest.xls
+2020-07-12 18:00:03,424-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:05:32,370-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:05:32,373-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:05:32,416-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:18:37,081-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:18:37,083-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:18:37,097-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:23:19,138-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:23:19,141-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:23:19,156-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:27:03,600-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:27:03,602-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:27:03,616-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:33:07,339-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:33:07,342-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:33:07,358-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:36:49,346-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:36:49,349-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.example.TestDBon driverType4
+2020-07-12 18:36:51,367-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 18:36:51,509-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(24) - test_0001_LoginPass 在运行呢 !
+2020-07-12 18:36:52,519-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(45) - test_0001_LoginPass is end !
+2020-07-12 18:36:55,292-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 18:36:55,450-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(24) - test_0001_LoginPass 在运行呢 !
+2020-07-12 18:36:56,453-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(45) - test_0001_LoginPass is end !
+2020-07-12 18:36:58,069-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:37:49,578-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:37:49,580-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:37:49,595-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:47:57,874-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:47:57,877-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:47:57,912-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:48:17,927-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:48:17,929-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:48:17,943-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:50:05,755-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-07-12 18:50:05,850-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-07-12 18:50:05,850-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:50:05,856-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-07-12 18:50:19,571-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-07-12 18:50:19,670-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-07-12 18:50:19,670-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:50:19,677-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-07-12 18:50:30,745-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-07-12 18:50:30,839-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-07-12 18:50:30,840-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:50:30,847-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-07-12 18:51:13,811-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:51:13,813-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-12 18:51:13,827-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:56:06,529-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:56:06,532-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.example.TestBackon driverType4
+2020-07-12 18:56:08,531-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 18:56:12,916-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 18:57:01,999-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 18:57:02,001-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.example.TestBackon driverType4
+2020-07-12 18:57:03,386-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 18:57:05,730-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 19:00:19,688-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 19:00:19,691-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(98) - Start to run test class========== com.example.TestBackon driverType4
+2020-07-12 19:00:21,170-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(45) - 启动Mac环境下Chrome浏览器......
+2020-07-12 19:00:25,453-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-12 19:12:33,049-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 19:12:33,053-[SeleniumAutoFile] INFO [main] com.example.TestBackup.testUntitled(49) - 数据库连接成功！
+2020-07-12 19:24:46,324-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(42) - undefined db type !
+2020-07-12 19:25:28,611-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(42) - undefined db type !
+2020-07-12 19:26:32,264-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(42) - undefined db type !
+2020-07-12 19:29:29,287-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(42) - undefined db type !
+2020-07-12 19:29:29,855-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-12 19:29:29,855-[SeleniumAutoFile] INFO [main] com.example.TestBackup.testUntitled(52) - 数据库连接成功！
+2020-07-12 19:32:51,633-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(42) - undefined db type !
+2020-07-12 19:33:37,857-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(42) - undefined db type !
+2020-07-12 19:34:06,207-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(42) - undefined db type !
+2020-07-12 22:52:11,151-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(42) - undefined db type !

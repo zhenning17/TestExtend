@@ -1,0 +1,48 @@
+2020-07-25 16:18:06,721-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-25 16:18:06,723-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.example.TestDBon driverType4
+2020-07-25 16:18:09,211-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-25 16:18:09,346-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(25) - test_0001_LoginPass 在运行呢 !
+2020-07-25 16:18:10,357-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(46) - test_0001_LoginPass is end !
+2020-07-25 16:18:13,038-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-25 16:18:13,193-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(25) - test_0001_LoginPass 在运行呢 !
+2020-07-25 16:18:14,194-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(46) - test_0001_LoginPass is end !
+2020-07-25 16:18:15,792-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-25 16:35:55,503-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-25 16:35:55,508-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.example.TestDBon driverType4
+2020-07-25 16:35:57,269-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-25 16:35:57,411-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(25) - test_0001_LoginPass 在运行呢 !
+2020-07-25 16:35:58,419-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(46) - test_0001_LoginPass is end !
+2020-07-25 16:36:01,010-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-25 16:36:01,208-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(25) - test_0001_LoginPass 在运行呢 !
+2020-07-25 16:36:02,213-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(46) - test_0001_LoginPass is end !
+2020-07-25 16:36:03,819-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-25 16:37:22,964-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-25 16:37:22,966-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.example.TestDBon driverType4
+2020-07-25 16:37:24,514-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-25 16:37:24,665-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(25) - test_0001_LoginPass 在运行呢 !
+2020-07-25 16:37:25,668-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(46) - test_0001_LoginPass is end !
+2020-07-25 16:37:28,169-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-25 16:37:28,382-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(25) - test_0001_LoginPass 在运行呢 !
+2020-07-25 16:37:29,387-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(46) - test_0001_LoginPass is end !
+2020-07-25 16:37:30,979-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-25 16:38:00,468-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-25 16:38:00,471-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.example.TestDBon driverType4
+2020-07-25 16:38:01,921-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-25 16:38:02,055-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(25) - test_0001_LoginPass 在运行呢 !
+2020-07-25 16:38:02,107-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.getResultSet(74) - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'Interfaces.umg_user' doesn't exist
+2020-07-25 16:38:02,109-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.getColumnCount(95) - java.lang.NullPointerException
+2020-07-25 16:38:02,110-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.getRowCount(162) - java.lang.NullPointerException
+2020-07-25 16:38:02,111-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.getData(208) - java.lang.NullPointerException
+2020-07-25 16:38:02,111-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(29) - DB数据  --- : null
+2020-07-25 16:38:02,112-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(46) - test_0001_LoginPass is end !
+2020-07-25 16:38:04,742-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-25 16:38:04,945-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(25) - test_0001_LoginPass 在运行呢 !
+2020-07-25 16:38:04,991-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.getResultSet(74) - com.mysql.jdbc.exceptions.jdbc4.MySQLSyntaxErrorException: Table 'Interfaces.umg_user' doesn't exist
+2020-07-25 16:38:04,992-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.getColumnCount(95) - java.lang.NullPointerException
+2020-07-25 16:38:04,993-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.getRowCount(162) - java.lang.NullPointerException
+2020-07-25 16:38:04,993-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.getData(208) - java.lang.NullPointerException
+2020-07-25 16:38:04,994-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(29) - DB数据  --- : null
+2020-07-25 16:38:04,995-[SeleniumAutoFile] INFO [main] com.example.TestDB.test_0001_LoginPass(46) - test_0001_LoginPass is end !
+2020-07-25 16:38:06,587-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-25 16:39:04,853-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-25 16:39:31,624-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+	<test name="Test" preserve-order="true">
+		<parameter name="driverType" value="4" />
+		<classes>
+			<class name="com.cases.Login" />
+		</classes>
+	</test>
+	<!-- allure监听器-->
+	<listeners>
+<!--		<listener class-name="com.vimalselvam.testng.listener.ExtentTestNgFormatter"/>-->
+		<listener class-name="com.config.TestCaseReport"/>
+	</listeners>
+</suite>

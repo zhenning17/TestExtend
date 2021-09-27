@@ -1,0 +1,16 @@
+2020-07-22 10:08:24,260-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-22 10:08:24,263-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.KfglTeston driverType4
+2020-07-22 10:08:24,274-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-22 18:14:45,625-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-07-22 18:14:45,628-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-07-22 18:14:47,350-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-07-22 18:14:47,492-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-07-22 18:14:51,815-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-07-22 18:17:23,710-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(44) - undefined db type !！～～～
+2020-07-22 18:17:54,739-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(44) - undefined db type !！～～～
+2020-07-22 18:18:44,067-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(44) - undefined db type !！～～～
+2020-07-22 18:19:36,141-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(44) - undefined db type !！～～～
+2020-07-22 18:20:46,337-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(44) - undefined db type !！～～～
+2020-07-22 18:21:43,512-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(44) - undefined db type !！～～～
+2020-07-22 18:22:58,046-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(44) - undefined db type !！～～～
+2020-07-22 18:23:06,383-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(44) - undefined db type !！～～～

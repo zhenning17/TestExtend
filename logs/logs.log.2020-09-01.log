@@ -1,0 +1,49 @@
+2020-09-01 11:02:41,616-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:02:41,619-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:07:00,294-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:07:00,296-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:07:30,077-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:07:30,081-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:07:32,567-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:07:32,713-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-09-01 11:07:38,111-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-09-01 11:09:38,944-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:09:38,946-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:09:40,624-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:09:40,790-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-09-01 11:09:46,263-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-09-01 11:10:10,085-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:10:10,087-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:10:11,599-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:10:11,736-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-09-01 11:10:17,171-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-09-01 11:10:37,251-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:10:37,253-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:10:39,389-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:10:39,530-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-09-01 11:10:45,345-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-09-01 11:11:02,446-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:11:02,449-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:11:05,031-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:11:05,178-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 我已经在运行啦～！～
+2020-09-01 11:11:10,973-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-09-01 11:17:02,590-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:17:02,592-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:17:04,263-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:17:04,394-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-09-01 11:17:09,912-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-09-01 11:18:00,543-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:18:00,545-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:18:02,040-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:18:02,185-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-09-01 11:18:07,587-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-09-01 11:19:27,849-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:19:27,851-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:19:30,000-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:19:30,146-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-09-01 11:19:35,642-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止
+2020-09-01 11:20:11,148-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-01 11:20:11,150-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(97) - Start to run test class========== com.cases.Loginon driverType4
+2020-09-01 11:20:12,636-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-09-01 11:20:12,774-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-09-01 11:20:18,216-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.closeDBDriver(47) - 数据库连接已终止

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataset>
+  <t_result result_id="87e2fc5c-631c-42f4-be8e-47e412d0a96f" runtime="2019-05-31 14:24:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="af033549-0867-4408-9c25-93d9d19582c8" runtime="2019-05-31 14:27:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="54fa6725-f990-4ca4-8664-32155144a12c" runtime="2019-05-31 14:30:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="9cfb04c9-1759-4a5f-838d-d4e6b290c907" runtime="2019-05-31 15:36:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="97945f40-edb6-4270-87ce-0c4ccd953297" runtime="2019-05-31 15:39:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="e33a99b2-8bd9-49a0-b914-68c773f5ccce" runtime="2019-05-31 15:42:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="1a7fe93e-0c03-45ac-8f3c-1405385d0383" runtime="2019-05-31 15:45:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="47af29fc-5ef1-4933-b3c2-8b28a06469b7" runtime="2019-05-31 15:48:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="c3ef25c6-dac1-4ab8-872f-0042e39edbe2" runtime="2019-05-31 15:51:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="1cca2ccd-60e5-4d69-a203-49ae0e174cb2" runtime="2019-05-31 15:54:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="c76cd113-cb1e-48c8-a589-1577cc039d96" runtime="2019-05-31 15:57:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="aafde553-e8db-469b-88cf-e6157dea3c67" runtime="2019-05-31 16:00:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="54858828-a13e-4233-a3a7-cdfb9bc03f4a" runtime="2019-05-31 16:03:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="9d623222-076a-44f9-a579-5278e4b4d753" runtime="2019-05-31 16:06:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="4777dd26-0150-42d7-b71f-9afa61589ae9" runtime="2019-05-31 16:09:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="f52d5b50-0254-4847-a184-b22b2f81ea62" runtime="2019-05-31 16:12:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="d00ccf22-b299-41ee-9df9-5e7888c8938a" runtime="2019-05-31 16:15:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="b2575e37-4b55-4b67-8cf5-54b60b8f47eb" runtime="2019-05-31 16:18:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="b1294559-3084-4a50-a45a-661613fbca81" runtime="2019-05-31 21:30:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="b684794b-e562-4388-8610-2050b68c2c02" runtime="2019-05-31 21:36:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="c248a8e0-b852-47fb-8890-4f89c7e10e9b" runtime="2019-05-31 21:42:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="fd9d84c8-52f9-4d1f-857f-d43645d18a65" runtime="2019-05-31 21:48:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="dc66de89-b484-4163-a1e4-2b90ec765c01" runtime="2019-05-31 21:57:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="b1f72921-7057-4f29-bf99-bb7e7fcfeeb0" runtime="2019-05-31 22:06:00.0" sucess="3" fail="2" skip="0"/>
+  <t_result result_id="d78c1050-0daf-4d2a-a1f1-3545f88a33a2" runtime="2019-09-21 06:21:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="c6289b3a-6917-42f6-b5ff-eabd2ce65742" runtime="2019-09-21 06:24:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="3f4f85a0-723b-4fb1-b80d-2d1130cfc946" runtime="2019-09-21 06:27:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="747458be-e5ee-4dc9-9bc4-b2cdbcbcfc0c" runtime="2019-09-21 06:30:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="2e44d5d8-4458-40ed-8b53-5f30759ed1d2" runtime="2019-09-21 06:33:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="9a396ba4-258e-4f0e-b81d-172fcc42862b" runtime="2019-09-21 06:36:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="5ba6c43e-dbf0-490b-8762-b0eb30510692" runtime="2019-09-21 06:39:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="a7dfca13-a97e-402a-be07-0452cc9a7cde" runtime="2019-09-21 06:42:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="6f74853d-f687-47f6-a8ce-3a5f10920484" runtime="2019-09-21 06:45:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="d0fb488c-a6f0-4dee-9db0-8b92099199e7" runtime="2019-09-21 06:48:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="e9c3470e-4407-4208-922c-a668d42c2aef" runtime="2019-09-21 06:51:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="c6a195a1-529e-47b1-a332-8bb9f8c25f8c" runtime="2019-09-21 06:54:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="8c0ec1cc-e9ab-4f33-ab86-f56e09a8149d" runtime="2019-09-21 06:57:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="452054f9-2311-4e7e-9376-d75e8060cc11" runtime="2019-09-21 07:00:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="29345f8e-47de-4bf1-975b-89317240e1cb" runtime="2019-09-21 07:03:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="7e819dd1-88db-4301-b0b7-d82770de1e6f" runtime="2019-09-21 07:06:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="61a8e890-800a-43fd-97f5-7ed7e81e5e5b" runtime="2019-09-21 07:09:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="0c8da39f-5cf2-4017-8772-47eb8dadb458" runtime="2019-09-21 07:15:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="00cb4cea-d1e5-4901-b6c7-a6c7101d9d64" runtime="2019-09-21 07:21:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="926eef22-ab6f-49a3-9fa0-c05a40d1aea4" runtime="2019-09-21 07:24:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="5ebe050b-7880-43fc-8151-6a6ec8a83622" runtime="2019-09-21 07:30:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="2aa47bdb-be77-4647-a2d9-347e1e6e66ed" runtime="2019-09-21 07:33:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="96d1c05b-b984-427a-9b08-cec5e4032926" runtime="2019-09-21 07:36:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="c683125a-286e-46d7-b089-d880e26cff9c" runtime="2019-09-21 08:00:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="81380bd9-fb4d-4cbe-bc7a-b6bc986d59be" runtime="2019-09-21 08:09:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="22dff3b4-7e08-4fbc-9479-6d5d5e6ce477" runtime="2019-09-21 08:12:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="2e90323f-aef7-4367-9bfc-4a2a0d8f5fa4" runtime="2019-09-21 08:15:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="2af366f3-7d06-494f-9efe-17cc67529a1d" runtime="2019-09-21 08:24:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="893889f3-1839-4bc6-9352-6a3e5ba318e0" runtime="2019-09-21 08:33:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="1a2b4710-c1ff-424c-967b-605ec9913723" runtime="2019-09-21 08:36:00.0" sucess="3" fail="1" skip="0"/>
+  <t_result result_id="aff8553c-6982-436a-952f-142249e29ef8" runtime="2019-09-21 08:42:00.0" sucess="5" fail="1" skip="0"/>
+  <t_result result_id="6f1d8fb9-ace8-49fd-bb25-ad3181cec5c9" runtime="2019-09-21 08:45:00.0" sucess="5" fail="1" skip="0"/>
+  <t_result result_id="a2d603c1-4687-4901-9b53-f35aa8af612a" runtime="2019-09-21 08:48:00.0" sucess="5" fail="1" skip="0"/>
+  <t_result result_id="3059923d-7b09-497e-af60-42c3aa0adb8c" runtime="2019-09-21 08:54:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="727dcdb0-4518-42a5-a111-1bbf71f40bff" runtime="2019-09-21 09:00:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="6be7bc83-304b-42e1-a549-ddbbd03d14e4" runtime="2019-09-21 09:03:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="803ec9fc-d5d5-4954-944c-a5c7e1f3b710" runtime="2019-09-21 09:06:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="ec5e7407-35fa-4ae0-a130-7f310f289263" runtime="2019-09-21 09:09:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="98722f84-49b9-49ba-bdfc-e5e042e2143b" runtime="2019-09-21 09:51:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="e168f937-e281-47ad-92ec-c98799ddb443" runtime="2019-09-21 09:54:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="f0e7b2e1-5b30-4e23-a29f-f78e0a86357b" runtime="2019-09-21 09:57:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="2678d7f5-b399-4803-863d-33953249783b" runtime="2019-09-21 10:00:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="54afe7ac-8045-49d2-a6a3-d155f73a62e2" runtime="2019-09-21 10:21:00.0" sucess="4" fail="1" skip="0"/>
+  <t_result result_id="126f5793-c91f-46d0-a830-098e118f3af8" runtime="2020-02-17 00:30:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="23fa3d69-2e3e-403c-b578-fa1426e6f6e3" runtime="2020-03-06 02:30:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="2a35530e-9e7f-44bb-ba78-6b6cf4977771" runtime="2020-03-06 03:00:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="f324b666-c36e-4f9b-aecf-8ba646f60c34" runtime="2020-03-14 07:30:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="68d56ca3-b7bd-4d2c-97b1-ff20042a01f5" runtime="2020-03-14 08:00:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="f96ffb43-e394-4379-a8c0-8a2bbd89c860" runtime="2020-03-28 07:00:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="76583928-0e3c-43e9-b532-297283d8dfcf" runtime="2020-04-12 01:00:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="e327a07e-93b3-4e68-bb26-5a482ddffd55" runtime="2020-04-12 01:30:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="8f50f31e-01c2-424c-bbaa-d768a4671e92" runtime="2020-04-12 02:00:00.0" sucess="0" fail="0" skip="0"/>
+  <t_result result_id="d6df41eb-7ac7-43d2-9cd8-98d445d87eae" runtime="2020-05-29 10:00:00.0" sucess="0" fail="0" skip="0"/>
+  <t_role roleid="238d2ef4-4a00-4851-b719-fcf22968fa51" rolename="测试人员" description="具有接口维护权限" status="super"/>
+  <t_role roleid="48990dc2-019b-4c8e-882f-b90a520c7ab9" rolename="一般用户" description="拥有部分权限"/>
+  <t_role roleid="7efe8c91-f269-4761-b1ee-ce29c9a8c3d1" rolename="superadmin" description="123" status="super"/>
+  <t_role roleid="9d6471b4-2f67-4a02-be9c-290eacb9617b" rolename="客服" description="客服权限" status="2"/>
+  <t_system systemid="1100071d-7cdf-434a-bb12-601afa3c0768" systemname="营销" description="营销模块"/>
+  <t_system systemid="12c8a5e5-fe60-449a-9f6c-2d63d316adec" systemname="日志" description="营销模块"/>
+  <t_system systemid="1477cacf-495e-45c7-ae89-8be2f41123ba" systemname="用户系统" description="用户模块"/>
+  <t_system systemid="1dad5e08-a6e8-40ae-9b71-fb3f96619962" systemname="客服" description="客服"/>
+  <t_user userid="5aecebaa-d0d7-4ee9-99d6-62cf6bcaffc6" username="test" password="$1$qiLhoNvb$u3Dy4y1fQt34uo0s2SJZ1." name="1234" sex="1234" addr="1234" roleid="238d2ef4-4a00-4851-b719-fcf22968fa51" description="1234" bianhao="test" status="1"/>
+  <t_user userid="f9eef08f-830c-44c0-833a-90060663be85" username="admin" password="$1$vZcxsXDq$Zmf3aliEnzaUOEEaMh0.w0" name="超级管理员" sex="男" addr="北京" roleid="7efe8c91-f269-4761-b1ee-ce29c9a8c3d1" description="拥有一切权限" bianhao="1001" status="1" email=""/>
+</dataset>

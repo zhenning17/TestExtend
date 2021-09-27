@@ -1,0 +1,60 @@
+2020-11-05 09:23:52,163-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 09:23:52,308-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 09:23:52,308-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 09:23:54,793-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 09:23:54,913-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 09:23:59,372-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 15:22:32,389-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 15:22:32,489-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 15:22:32,489-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 15:22:34,220-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 15:22:34,349-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 15:22:36,872-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 16:09:38,017-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 16:09:38,104-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 16:09:38,104-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 16:09:39,540-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 16:09:39,678-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 16:09:42,243-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 16:10:18,010-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 16:10:18,097-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 16:10:18,097-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 16:10:19,654-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 16:10:19,798-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 16:10:25,323-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 16:10:53,666-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 16:10:53,755-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 16:10:53,755-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 16:10:55,285-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 16:10:55,435-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 16:10:59,351-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 17:26:27,119-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 17:26:27,203-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 17:26:27,203-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 17:26:28,818-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 17:26:28,970-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 17:26:33,088-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 17:29:03,327-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 17:29:03,413-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 17:29:03,413-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 17:29:04,874-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 17:29:05,006-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 17:29:09,027-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 17:29:52,106-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 17:29:52,206-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 17:29:52,206-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 17:29:53,732-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 17:29:53,904-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 17:29:57,895-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 17:30:39,650-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 17:30:39,740-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 17:30:39,740-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 17:30:41,209-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 17:30:41,360-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 17:30:45,343-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException
+2020-11-05 17:31:15,232-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(28) - undefined db type !
+2020-11-05 17:31:15,322-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.connectDBDriver(34) - Cannot connect to database server
+2020-11-05 17:31:15,322-[SeleniumAutoFile] INFO [main] com.cases.TestBase.beforeClass(96) - Start to run test class========== com.cases.Loginon driverType4
+2020-11-05 17:31:16,834-[SeleniumAutoFile] INFO [main] com.config.DriverManage.getDriver(46) - 启动Mac环境下Chrome浏览器......
+2020-11-05 17:31:17,020-[SeleniumAutoFile] INFO [main] com.cases.Login.Test_0001_LoginPass(15) - Test_0001_LoginPass 运行中！
+2020-11-05 17:31:21,013-[SeleniumAutoFile] ERROR [main] com.util.DatabaseService.closeDBDriver(50) - java.lang.NullPointerException

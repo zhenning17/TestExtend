@@ -1,0 +1,6 @@
+2020-09-18 16:08:08,017-[SeleniumAutoFile] INFO [main] com.util.DatabaseService.connectDBDriver(31) - Database connection established
+2020-09-18 16:11:06,349-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(43) - undefined db type !！～～～
+2020-09-18 16:11:19,568-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(43) - undefined db type !！～～～
+2020-09-18 16:11:29,922-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(43) - undefined db type !！～～～
+2020-09-18 16:12:06,636-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(43) - undefined db type !！～～～
+2020-09-18 16:12:21,636-[SeleniumAutoFile] ERROR [main] com.util.DbUnitService.<init>(43) - undefined db type !！～～～
